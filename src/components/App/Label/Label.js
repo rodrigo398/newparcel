@@ -3,7 +3,7 @@ import React from "react";
 const Label = () => {
   return (
     <div>
-      <h1>New Label KPO</h1>
+      <h1>New Label KPO 22</h1>
     </div>
   );
 };
