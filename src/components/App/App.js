@@ -6,7 +6,7 @@ import Label from "./Label";
 const App = () => {
   return (
     <div>
-      <Label></Label>
+      <Label />
       <Button />
     </div>
   );
