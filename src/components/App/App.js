@@ -1,11 +1,12 @@
 import React from "react";
 
 import Button from "./Button";
+import Label from "./Label";
 
 const App = () => {
   return (
     <div>
-      <h1>React App2</h1>
+      <Label />
       <Button />
     </div>
   );
