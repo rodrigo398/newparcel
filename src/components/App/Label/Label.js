@@ -3,7 +3,7 @@ import React from "react";
 const Label = () => {
   return (
     <div>
-      <h1>New Label other New label</h1>
+      <h1>This is not a H1</h1>
     </div>
   );
 };
